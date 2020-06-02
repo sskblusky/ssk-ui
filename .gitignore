@@ -19,3 +19,12 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# 以下是新增的要忽略目录和文件
+docs/
+packages/
+public/
+vue.config.js
+babel.config.js
+*.map
+*.html
